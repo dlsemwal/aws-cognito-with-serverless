@@ -1,0 +1,20 @@
+{
+  "name": "omsoft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serverless-offline": "^6.1.7"
+  },
+  "dependencies": {
+    "amazon-cognito-identity-js": "^4.2.4",
+    "joi": "^14.3.1",
+    "node-fetch": "^2.6.0"
+  }
+}
